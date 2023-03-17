@@ -2,3 +2,9 @@ Fri Mar 17 15:14:26 -03 2023:
  tests:  1|6
 total_score: 10/70
 2300d69
+Fri Mar 17 15:15:43 -03 2023: 
+ exercises.c | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+ tests:  2|5
+total_score: 20/70
+3a86623

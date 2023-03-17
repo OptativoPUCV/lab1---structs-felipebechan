@@ -48,3 +48,16 @@ Fri Mar 17 15:19:33 -03 2023:
  tests:  2|5
 total_score: 20/70
 74cfb07
+Fri Mar 17 15:25:26 -03 2023: 
+ exercises.c | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+In file included from test.c:5:
+./exercises.c:66:4: error: array index 11 is past the end of the array (which contains 11 elements) [-Werror,-Warray-bounds]
+   p->rut[11] = '\0';
+   ^      ~~
+./exercises.c:53:3: note: array 'rut' declared here
+  char rut[11];
+  ^
+1 error generated.
+Compilation failed
+b48624c

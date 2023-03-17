@@ -36,3 +36,9 @@ In file included from test.c:5:
 2 errors generated.
 Compilation failed
 89b2c97
+Fri Mar 17 15:17:42 -03 2023: 
+ exercises.c | 9 +++++----
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+ tests:  2|5
+total_score: 20/70
+d3fee01

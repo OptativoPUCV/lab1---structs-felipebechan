@@ -96,3 +96,9 @@ In file included from test.c:5:
 1 error generated.
 Compilation failed
 de86b41
+Sat Mar 18 19:09:38 -03 2023: 
+ exercises.c | 1 -
+ 1 file changed, 1 deletion(-)
+ tests:  4|3
+total_score: 40/70
+a19880a

@@ -73,3 +73,9 @@ Sat Mar 18 19:02:50 -03 2023:
  tests:  3|4
 total_score: 30/70
 aa88e2e
+Sat Mar 18 19:04:08 -03 2023: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  3|4
+total_score: 30/70
+d1100b4
